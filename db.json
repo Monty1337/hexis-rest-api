@@ -1,8 +1,12 @@
 {
-  "posts": [
+  "sites": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Friedrichsgabekoog"
+    },
+    {
+      "id": 2,
+      "name": "Novar 2"
     }
   ],
   "profile": {
